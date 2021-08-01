@@ -1,3 +1,17 @@
 31/7/21
 read & try https://towardsdatascience.com/algorithmic-trading-bot-python-ab8f42c37145
+git repo https://github.com/robsalgado/personal_data_science_projects/tree/master/trading_bot
+my git repo https://github.com/juanjosua/tradingbot
+data provider https://developer.tdameritrade.com/apis
+trading platform https://app.alpaca.markets/brokerage/new-account/overview
 progress:
+
+
+1/8/21
+watch & try https://www.youtube.com/watch?v=OfplyPrRSkE&list=PLg3Na6pJ51UJEiuBglP5M9sdeO_R1v-Pk
+
+progress:
+generate paper trading api on alpaca
+successfully get account status from alpaca
+successfully send order to alpaca paper trading api
+learn to deploy bot on python anywhere
